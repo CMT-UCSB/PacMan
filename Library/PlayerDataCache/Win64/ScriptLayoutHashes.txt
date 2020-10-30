@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/cambr/OneDrive/Documents/Unity Game Files/PacMan Build/Pacman.exe
+C:/Users/cambr/OneDrive/Documents/Unity Game Files/PacMan Yes/Pacman.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/Level1.unity
